@@ -8,6 +8,6 @@
 
 ### W3S Reference ⬇️
 
-🚀 useCallback: https://www.w3schools.com/react/react_usereducer.asp
+🚀 useReducer: https://www.w3schools.com/react/react_usereducer.asp
 
 

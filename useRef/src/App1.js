@@ -54,7 +54,7 @@ export const App1 = () => {
         <button onClick={resetTimer}>Reset</button>
       </section>
       <br /><br />
-      <p>Seconds: {seconds}</p>
+      <p>Seconds Count: {seconds}</p>
       <br /><br />
       <p>{randomInput}</p>
     </main>
